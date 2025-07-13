@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpcanter
-- 👀 I’m interested in natural language coding, openai, k8s, OAS, api first.
-- 🌱 I’m currently learning openai
+- 👀 I’m interested in natural language computing
+- 🌱 I’m currently using ClaudeCode
 - 📫 How to reach me jpcanter@icloud.com
 
 <!---
